@@ -44,7 +44,7 @@
 17. [画面設計 ‐ STORE 店舗顧客と店決済画面(Video)](../../wiki/画面設計-‐-STORE-店舗顧客と店決済画面)
 18. [画面設計 ‐ STORE テーブル登録及び管理)](../../wiki/画面設計-‐-STORE-テーブル登録及び管理)
 19. [Project Server Amazon EC2 環境構築 (Ubuntu)](../../wiki/Project-Server-Amazon-EC2-環境構築-(Ubuntu)) ★
-20. [프로젝트 마무리](../../wiki/프로젝트-마무리)
+20. [最後に](../../wiki/最後に)
 
 ---
 
