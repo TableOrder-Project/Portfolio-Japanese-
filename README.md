@@ -61,7 +61,7 @@
 
 ![image](https://github.com/user-attachments/assets/ee7416eb-534e-4cd7-adf8-5674f66a42f8)
 
-FireBase를 활용한 Android App (짱구배경 나만의 다이어리 - Main Page 담당)
+FireBaseを利用した Android App (クレヨンしんちゃん背景の自分だけのダイアリー Main Page 担当)
 
 https://github.com/LEE-GEEWOO/Android_Project
 
