@@ -35,7 +35,7 @@
 8. [画面設計 ‐ Admin お知らせ ID登録及び店舗登録(GIF)](../../wiki/画面設計-‐-Admin-お知らせ-ID登録及び店舗登録)
 9. [画面設計 ‐ STORE お知らせ MQTT](../../wiki/画面設計-‐-STORE-お知らせ-MQTT) ★
 10. [画面設計 ‐ 店内顧客画面(GIF)](../../wiki/画面設計-‐-店内顧客画面)
-11. [화면 설계 ‐ STORE 주문보기 MQTT (포스기를 Web으로 표현)(Video,GIF)](../../wiki/화면-설계-‐-STORE-주문보기-MQTT-(포스기를-Web으로-표현)) ★
+11. [画面設計 ‐ STORE 注文表示 MQTT (POS Systemを Webで表現)(Video,GIF)](../../wiki/画面設計-‐-STORE-注文表示-MQTT-(POS-Systemを-Webで表現)) ★
 12. [화면 설계 ‐ STORE 주문상세 보기](../../wiki/화면-설계-‐-STORE-주문상세-보기)
 13. [화면구성 ‐ 매장 고객화면 (주문 갱신)(GIF)](../../wiki/화면구성-‐-매장-고객화면-(계산서-갱신))
 14. [화면구성 - STORE 메뉴 카테고리(GIF)](../../wiki/화면구성-‐-STORE-메뉴-카테고리)
