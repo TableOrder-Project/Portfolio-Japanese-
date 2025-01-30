@@ -43,7 +43,7 @@
 16. [画面設計 ‐ STORE Menu 売り切れ機能(Video)](../../wiki/画面設計-‐-STORE-Menu-売り切れ機能) ★
 17. [画面設計 ‐ STORE 店舗顧客と店決済画面(Video)](../../wiki/画面設計-‐-STORE-店舗顧客と店決済画面)
 18. [画面設計 ‐ STORE テーブル登録及び管理)](../../wiki/画面設計-‐-STORE-テーブル登録及び管理)
-19. [프로젝트 서버 Amazon EC2 환경 구성 (Ubuntu)](../../wiki/프로젝트-서버-Amazon-EC2-환경-구성-(Ubuntu)) ★
+19. [Project Server Amazon EC2 環境構築 (Ubuntu)](../../wiki/Project-Server-Amazon-EC2-環境構築-(Ubuntu)) ★
 20. [프로젝트 마무리](../../wiki/프로젝트-마무리)
 
 ---
