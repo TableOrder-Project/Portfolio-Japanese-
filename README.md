@@ -4,26 +4,26 @@
 
 ### - EXPERIENCE -
 
-2019.04 - **Shunan University ( JAPAN ) 입학**
-          경제학 전공 ( 2024.03 졸업 )
+2019.04 - **Shunan University ( JAPAN ) 入学**
+          経済学専攻 ( 2024.03 卒業 )
 
 2019.08 - **Yamaguchi International Exchange Association**
-          한일 비문학 공문서류 번역
+          日韓非文学書類翻訳
 
-2024.06 - **부산 IT 교육센터**
-          프론트/백엔드 프레임워크 활용 자바 웹&앱 개발 
+2024.06 - **釜山 IT アカデミ**
+          プロント/バックエンドフレームワーク活用 JAVA WEB&APP開発 
           (950H) 
 
 ### - CERTIFICATE -
 
 2022.01 - **JLPT ( **Japanese Language Proficiency Test** )**
-          N 1(급) - 자격증 기한 없음
+          N 1(級) 
 
 ---
 
 # Main Project
-![태블릿 메인화면](https://github.com/user-attachments/assets/235083ed-1c62-448a-8c0c-9cc53e991e49)
-**※ 담당한 곳 ★로 표시**
+![Tablets Main Screen](https://github.com/user-attachments/assets/235083ed-1c62-448a-8c0c-9cc53e991e49)
+**※ 担当した部分★で表示**
 
 1. [프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
 2. [프로젝트 사용 스택](../../wiki/프로젝트-사용-스택)
