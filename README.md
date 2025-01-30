@@ -25,7 +25,7 @@
 ![Tablets Main Screen](https://github.com/user-attachments/assets/235083ed-1c62-448a-8c0c-9cc53e991e49)
 **※ 担当した部分★で表示**
 
-1. [프로젝트 시연 영상](../../wiki/프로젝트-시연-영상)
+1. [프로젝트 시연 영상](../../wiki/Project-demo-Video)
 2. [프로젝트 사용 스택](../../wiki/프로젝트-사용-스택)
 3. [프로젝트 소개](../../wiki/프로젝트-소개) 
 4. [화면설계/USECASE/ERD/프로젝트 구조](../../wiki/화면설계-USECASE-ERD-프로젝트-구조)  
