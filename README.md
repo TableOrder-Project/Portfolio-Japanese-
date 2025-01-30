@@ -32,7 +32,7 @@
 5. [画面設計 ‐ ADMIN Login 画面(GIF)](../../wiki/画面設計-‐-ADMIN-Login-画面) ★
 6. [画面設計 ‐ Admin Dashboard(GIF)](../../wiki/画面設計-‐-Admin-Dashboard)
 7. [画面設計 ‐ ADMIN お知らせ MQTT(GIF)](../../wiki/画面設計-‐-ADMIN-お知らせ-MQTT) ★
-8. [화면 설계 ‐ ADMIN 공지사항 계정등록 및 매장등록(GIF)](../../wiki/화면-설계-‐-ADMIN-공지사항-계정등록-및-매장등록)
+8. [画面設計 ‐ Admin お知らせ ID登録及び店舗登録(GIF)](../../wiki/画面設計-‐-Admin-お知らせ-ID登録及び店舗登録)
 9. [화면 설계 ‐ STORE 공지사항 MQTT](../../wiki/화면-설계-‐-STORE-공지사항-MQTT) ★
 10. [화면 설계 ‐ 매장 고객화면(GIF)](../../wiki/화면-설계-‐-매장-고객화면)
 11. [화면 설계 ‐ STORE 주문보기 MQTT (포스기를 Web으로 표현)(Video,GIF)](../../wiki/화면-설계-‐-STORE-주문보기-MQTT-(포스기를-Web으로-표현)) ★
