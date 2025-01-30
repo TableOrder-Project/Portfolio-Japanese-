@@ -27,7 +27,7 @@
 
 1. [Project Demo Video](../../wiki/Project-Demo-Video)
 2. [Project Stack](../../wiki/Project-Stack)
-3. [프로젝트 소개](../../wiki/프로젝트-소개) 
+3. [Project 紹介](../../wiki/Project-紹介) 
 4. [화면설계/USECASE/ERD/프로젝트 구조](../../wiki/화면설계-USECASE-ERD-프로젝트-구조)  
 5. [화면 설계 ‐ ADMIN 로그인 화면(GIF)](../../wiki/화면-설계-‐-ADMIN-로그인-화면) ★
 6. [화면 설계 ‐ ADMIN 대시보드(GIF)](../../wiki/화면-설계-‐-ADMIN-대시보드)
