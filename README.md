@@ -67,7 +67,7 @@ https://github.com/LEE-GEEWOO/Android_Project
 
 ---
 
-![image](https://github.com/user-attachments/assets/fc2405de-248b-41b0-9f5a-aa881349213a)
+![image](https://github.com/user-attachments/assets/d80988e6-acb1-4e5e-88e3-c0f985f38aee)
 
 Phone : +82 010-2815-1718
 
