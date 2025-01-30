@@ -30,7 +30,7 @@
 3. [Project 紹介](../../wiki/Project-紹介) 
 4. [画面設計/USECASE/ERD/Project 構造](../../wiki/画面設計-USECASE-ERD-Project-構造)  
 5. [画面設計 ‐ ADMIN Login 画面(GIF)](../../wiki/画面設計-‐-ADMIN-Login-画面) ★
-6. [화면 설계 ‐ ADMIN 대시보드(GIF)](../../wiki/화면-설계-‐-ADMIN-대시보드)
+6. [画面設計 ‐ Admin Dashboard(GIF)](../../wiki/画面設計-‐-Admin-Dashboard)
 7. [화면 설계 ‐ ADMIN 공지사항 MQTT(GIF)](../../wiki/화면-설계-‐-ADMIN-공지사항-MQTT) ★
 8. [화면 설계 ‐ ADMIN 공지사항 계정등록 및 매장등록(GIF)](../../wiki/화면-설계-‐-ADMIN-공지사항-계정등록-및-매장등록)
 9. [화면 설계 ‐ STORE 공지사항 MQTT](../../wiki/화면-설계-‐-STORE-공지사항-MQTT) ★
