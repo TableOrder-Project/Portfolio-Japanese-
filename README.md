@@ -26,7 +26,7 @@
 **※ 担当した部分★で表示**
 
 1. [Project Demo Video](../../wiki/Project-Demo-Video)
-2. [프로젝트 사용 스택](../../wiki/프로젝트-사용-스택)
+2. [Project Stack](../../wiki/Project-Stack)
 3. [프로젝트 소개](../../wiki/프로젝트-소개) 
 4. [화면설계/USECASE/ERD/프로젝트 구조](../../wiki/화면설계-USECASE-ERD-프로젝트-구조)  
 5. [화면 설계 ‐ ADMIN 로그인 화면(GIF)](../../wiki/화면-설계-‐-ADMIN-로그인-화면) ★
